@@ -199,12 +199,7 @@
     "bookAuthor": null,
     "bookWords": null,
     "bookIcon": null,
-    "bookIconFormat": [
-      "https://image.meiguixs.com/%s/%s/%ss.jpg",
-      "@.even@href:(?<=/)\\d+(?=/\\d+/)",
-      "@.even@href:(?<=/\\d+/)\\d+(?=/)",
-      "@.even@href:(?<=/\\d+/)\\d+(?=/)"
-    ],
+    "bookIconFormat": null,
     "bookDesc": null,
     "bookUpdateTime": null,
     "bookUpdateTimeFormat": null,
