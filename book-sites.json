@@ -196,7 +196,7 @@
 
     "books": "#nr",
     "bookName": "@.odd a@",
-    "bookAuthor": "@.odd:nth-child(1)@",
+    "bookAuthor": "@td:nth-child(3)@",
     "bookWords": null,
     "bookIcon": null,
     "bookIconFormat": [
@@ -206,7 +206,7 @@
       "@.even a@href:(?<=/\\d+/)\\d+(?=/)"
     ],
     "bookDesc": null,
-    "bookUpdateTime": "@.odd:nth-child(2)@",
+    "bookUpdateTime": "@td:nth-child(5)@",
     "bookUpdateTimeFormat": null,
     "bookCategory": "@.sortname@text:(?<=\\[ ).+(?= \\])",
     "bookLastChapterName": null,
