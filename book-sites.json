@@ -189,7 +189,7 @@
     "searchUserAgent": null,
 
     "booksCharacteristic": null,
-    "detailCharacteristic": ".newrap a",
+    "detailCharacteristic": ".newrap strong a",
     "chaptersCharacteristic": null,
     "searchNext": "@.next@href",
     "searchNextFormat": null,
@@ -228,7 +228,7 @@
     "detailBookUpdateTimeFormat": null,
     "detailBookCategory": "@pd_r@",
     "detailBookFinished": null,
-    "detailBookUrl": "@.newrap a@href",
+    "detailBookUrl": "@.newrap strong a@href",
     "detailBookUrlFormat": null,
 
     "chaptersBookName": null,
