@@ -225,7 +225,7 @@
     "detailBookIcon": "@#bookimg img@src",
     "detailBookIconFormat": null,
     "detailBookDesc": "@#bookintro@",
-    "detailBookUpdateTime": "@.new@",
+    "detailBookUpdateTime": "@.new_t@:(?<=最后更新: ).*",
     "detailBookUpdateTimeFormat": null,
     "detailBookCategory": "@pd_r@",
     "detailBookFinished": null,
@@ -256,6 +256,6 @@
     "contentNext": null,
     "contentNextFormat": null,
     "contentRemove": null,
-    "contentReplace": null
+    "contentReplace": [{"reg": true,"html": false,first": "感谢阅读.*?com","second": ""}]
   }
 ]
