@@ -256,6 +256,6 @@
     "contentNext": null,
     "contentNextFormat": null,
     "contentRemove": null,
-    "contentReplace": [{"first": "感谢阅读.*?com", "second": ""}]
+    "contentReplace": null
   }
 ]
