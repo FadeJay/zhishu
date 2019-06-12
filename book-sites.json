@@ -256,6 +256,6 @@
     "contentNext": null,
     "contentNextFormat": null,
     "contentRemove": null,
-    "contentReplace": [{"reg": true,"html": false,first": "感谢阅读.*?com","second": ""}]
+    "contentReplace": [{"reg": true, "html": false, "first": "感谢阅读.*?com", "second": ""}]
   }
 ]
