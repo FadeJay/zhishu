@@ -225,7 +225,7 @@
     "detailBookIcon": "@#bookimg img@src",
     "detailBookIconFormat": null,
     "detailBookDesc": "@#bookintro@",
-    "detailBookUpdateTime": "@.new span:nth-child(1)@text:(?<=最后更新: ).*",
+    "detailBookUpdateTime": "@.new@",
     "detailBookUpdateTimeFormat": null,
     "detailBookCategory": "@pd_r@",
     "detailBookFinished": null,
