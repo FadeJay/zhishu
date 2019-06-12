@@ -200,10 +200,10 @@
     "bookWords": null,
     "bookIcon": null,
     "bookIconFormat": [
-      "image.meiguixs.com/%s/%s/%ss.jpg",
-      "@.even@href:(?<=/)\\d+(?=/\\d+/)",
-      "@.even@href:(?<=/\\d+/)\\d+(?=/)",
-      "@.even@href:(?<=/\\d+/)\\d+(?=/)"
+      "https://image.meiguixs.com/%s/%s/%ss.jpg",
+      "@.even a@href:(?<=/)\\d+(?=/\\d+/)",
+      "@.even a@href:(?<=/\\d+/)\\d+(?=/)",
+      "@.even a@href:(?<=/\\d+/)\\d+(?=/)"
     ],
     "bookDesc": null,
     "bookUpdateTime": "@.odd:nth-child(3)@",
